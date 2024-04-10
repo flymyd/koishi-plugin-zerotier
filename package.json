@@ -1,7 +1,7 @@
 {
   "name": "koishi-plugin-zerotier",
-  "description": "a zerotier central manager",
-  "version": "0.0.1",
+  "description": "Zerotier central manager plugin for Koishi.js",
+  "version": "1.0.0",
   "main": "lib/index.js",
   "typings": "lib/index.d.ts",
   "files": [
@@ -13,8 +13,19 @@
   "keywords": [
     "chatbot",
     "koishi",
-    "plugin"
+    "plugin",
+    "zerotier",
+    "developer",
+    "devops"
   ],
+  "contributors": [
+    "flymyd <flymyd@foxmail.com>"
+  ],
+  "homepage": "https://github.com/flymyd/koishi-plugin-zerotier",
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/flymyd/koishi-plugin-zerotier.git"
+  },
   "devDependencies": {},
   "peerDependencies": {
     "koishi": "^4.17.3"
